@@ -1,0 +1,4 @@
+{
+  "name": "My VPS Codespace",
+  "image": "mcr.microsoft.com/vscode/devcontainers/universal:latest"
+}
